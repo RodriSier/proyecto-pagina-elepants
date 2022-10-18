@@ -1,0 +1,38 @@
+body{
+
+    overflow-x: hidden;
+}
+/*menu*/
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+    color: plum;
+
+}
+#menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*imagenes*/    
+.carousel-inner{
+    max-height: 39rem;
+}
+
+@media (max-widht:768px)
+#intro {
+    width: 90% !important;
+    }
+    .servicio-fila{
+        width: 100%; !important
+        text-align:center;
+
+    }
+    @media(max-widht: 576px){
+        .icono-wrap
+        flex-wrap: wrap;
+        justify-content: center !important;
+        
+
+    }
+
