@@ -1,10 +1,13 @@
-PAGINA DE TIENDA ONLINE ELEPANTS.
-Segundo intento de entrega sobre la pagina de tienda on-line de indumentaria denominada Elepants, ubicado en Argentina (Capital Federal)
-Este layuot cuenta con Grids, tablas, imagenes e hipervinculos para que el usuario obtenga todo al alcance de un click. En la pagina principal se puede apreciar un backgroud color violeta/rosaceo, caracteristica de la marca, ya que su logotipo es de color rosa. Cuenta con un menu con distintos hipervinculos para que el usuario pueda encontrar de una manera mucho mas facil lo que esta buscando. Tambien cuenta con una imagen de uno de nuestros locales ubicado en Avenida Santa Fe 1245 (capital federal)
-En el Menu se pueden encontrar las siguientes solapas:
-Nosotros: Una breve despripcion de nuestra marca y un formulario de registro para que el usuario pueda recibir toda la informacion sobre nuestra indumentaria.
-Pants: Aqui el usuario puede obtener la informacion necesaria de nuestros famosos pantalones, remeras y buzos para todo el año.
-Contacto: Facil informacion de donde nos encontramos a travez de una imagen de google maps. Asi como tambien nuestras redes sociales y Whatsapp para coordinar el envio de las prendas que haya elegido en nuestro Catalogo de Pants.
-Catalogo de Pants: En esta seccion el usuari puede combinar de manera sencilla como llevar nuestras prendas, hay mas de 100 modelos disponibles con sus respectivas remeras para elegir el mejor outfit.
-Bootstrap: Esta seccion se encuentra en desarrollo, pero puede verse un carousel de imagenes que da un aporte mucho mas dinanico a la pagina de inicio.
-Inicio de Sesion: Llegamos a la parte final, si el usuario esta contento y eligio su uotfit favorito solo queda inicar sesion para terminar con la compra y coordinar el envio!
+PROYECTO ELEPANTES
+Este es un proyecto generado para la comisión de los lunes y los miercoles del curso de Full stack de la Empresa Coderhouse.
+Dicho proyecto empieza con una página principal donde se muestra el menú con sus diferentes enlaces que redireccionan al usuario a donde quiera ir. Se le coloco un color de fondo rosa haciendo referencia al logotipo de la marca, destacando su particular rosa intenso en cada una de sus diferentes variables.
+En el menú podemos encontrar las diferentes ventanas de “Nosotros, Pants,Contacto, Catalogo, inicio de sesion” y un HTML confeccionado con Bootstrap.
+Enn “Nosotros” se puede observar un párrafo con un lorem, haciendo referencia a la historia del la marca, sus inicios y demas. Tambien se le agrego un Formulario de Registro para que el usuario pueda loguearse sin problemas al momento de iniciar sesion.
+Pants: Nuestros pantalones tienen la caracteristica de que son coloridos, comodos y aportar ese grado de soltura que toda persona necesita en su vida.Contamos de 100 modelos diferentes para elegir,
+¿Como sabe el usuario para contactarnos? para eso tiene “contactanos” en esta seccion el usuario puede ver las diferentes redes sociales que maneja la marca y un mapa de uno de nuestros locales con el que podra llegar sin problemas.
+Se encuentran disponibles muchos pantalones al igual que sus remeras para combinar, el usuario puede elegir que outfit prefiera dirigiendose a “Catalogo de Pants”. A esta seccion se le implemento Grid y flexbox para que las imagenes puedan estar bien distribuidas al mostrarse en cualquier dispositivo mobil
+Como lo escrito anteriormente, en el menu hay submenu denominado Bootstrap. Este campo presenta la particularidad de ser codeado en Bootstrap, aun se encuentra en desarrollo, pero no hay dudas que superara las expectativas de todos los usuarios.
+Hasta aqui ha sido toda la presentacion de la PAGINA ELEPANTS RECOLETA, espero que les haya gustado.
+
+Rodrigo Leonel Sierra
+
